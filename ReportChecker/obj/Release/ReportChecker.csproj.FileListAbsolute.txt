@@ -1,0 +1,15 @@
+D:\Report Checker\ReportChecker\bin\Release\ReportChecker.exe
+D:\Report Checker\ReportChecker\bin\Release\ReportChecker.pdb
+D:\Report Checker\ReportChecker\bin\Release\MySql.Data.dll
+D:\Report Checker\ReportChecker\bin\Release\MySql.Data.xml
+D:\Report Checker\ReportChecker\obj\Release\ReportChecker.main.resources
+D:\Report Checker\ReportChecker\obj\Release\ReportChecker.Properties.Resources.resources
+D:\Report Checker\ReportChecker\obj\Release\ReportChecker.csproj.GenerateResource.Cache
+D:\Report Checker\ReportChecker\obj\Release\ReportChecker.exe
+D:\Report Checker\ReportChecker\obj\Release\ReportChecker.pdb
+D:\Report Checker\ReportChecker\bin\Release\ReportChecker.exe.config
+D:\Report Checker\ReportChecker\obj\Release\ReportChecker.Config.resources
+D:\Report Checker\ReportChecker\bin\Release\SSTCrypto.dll
+D:\Report Checker\ReportChecker\bin\Release\dbMySql.dll
+D:\Report Checker\ReportChecker\bin\Release\dbMySql.pdb
+D:\Report Checker\ReportChecker\obj\Release\ReportChecker.csprojResolveAssemblyReference.cache

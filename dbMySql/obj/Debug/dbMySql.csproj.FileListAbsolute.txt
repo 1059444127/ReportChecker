@@ -1,0 +1,6 @@
+D:\Report Checker\dbMySql\bin\Debug\dbMySql.dll
+D:\Report Checker\dbMySql\bin\Debug\dbMySql.pdb
+D:\Report Checker\dbMySql\bin\Debug\MySql.Data.dll
+D:\Report Checker\dbMySql\bin\Debug\MySql.Data.xml
+D:\Report Checker\dbMySql\obj\Debug\dbMySql.dll
+D:\Report Checker\dbMySql\obj\Debug\dbMySql.pdb
