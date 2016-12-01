@@ -1,6 +1,0 @@
-D:\Report Checker\dbMySql\bin\Release\dbMySql.dll
-D:\Report Checker\dbMySql\bin\Release\dbMySql.pdb
-D:\Report Checker\dbMySql\bin\Release\MySql.Data.dll
-D:\Report Checker\dbMySql\bin\Release\MySql.Data.xml
-D:\Report Checker\dbMySql\obj\Release\dbMySql.dll
-D:\Report Checker\dbMySql\obj\Release\dbMySql.pdb

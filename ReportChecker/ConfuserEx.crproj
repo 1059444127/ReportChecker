@@ -1,6 +1,0 @@
-<project outputDir="D:\Report Checker\ReportChecker\Confused" baseDir="D:\Report Checker\ReportChecker" xmlns="http://confuser.codeplex.com">
-  <packer id="compressor" />
-  <module path="bin\Release\MySql.Data.dll" />
-  <module path="bin\Release\ReportChecker.exe" />
-  <module path="bin\Release\SSTCrypto.dll" />
-</project>
