@@ -23,6 +23,9 @@ namespace ReportChecker {
             label = new Label[fieldsAmount];
             textBox = new TextBox[fieldsAmount];
 
+            AppDomain currentDomain = AppDomain.CurrentDomain;
+            currentDomain.UnhandledException += new UnhandledExceptionEventHandler(GeneralException);
+
             for (int fieldNumber = 0; fieldNumber < fieldsAmount; ++fieldNumber) {
                 label[fieldNumber] = new Label();
                 textBox[fieldNumber] = new TextBox();
@@ -58,6 +61,10 @@ namespace ReportChecker {
                                                 Properties.Settings.Default.databasePassword,
                                                 Properties.Settings.Default.databaseUsername +
                                                 "as56afs65qer3g654afg");
+        }
+
+        private void GeneralException(object sender, UnhandledExceptionEventArgs e) {
+            Console.WriteLine("[EXCEPTION] " + ((Exception)e.ExceptionObject).Message);
         }
 
         private void button2_Click(object sender, EventArgs e) {

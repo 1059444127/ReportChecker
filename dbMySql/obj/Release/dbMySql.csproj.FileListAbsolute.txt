@@ -4,3 +4,10 @@ D:\Report Checker\dbMySql\bin\Release\MySql.Data.dll
 D:\Report Checker\dbMySql\bin\Release\MySql.Data.xml
 D:\Report Checker\dbMySql\obj\Release\dbMySql.dll
 D:\Report Checker\dbMySql\obj\Release\dbMySql.pdb
+D:\izzitech\ReportChecker\ReportChecker\dbMySql\bin\Release\dbMySql.dll
+D:\izzitech\ReportChecker\ReportChecker\dbMySql\bin\Release\dbMySql.pdb
+D:\izzitech\ReportChecker\ReportChecker\dbMySql\bin\Release\MySql.Data.dll
+D:\izzitech\ReportChecker\ReportChecker\dbMySql\bin\Release\MySql.Data.xml
+D:\izzitech\ReportChecker\ReportChecker\dbMySql\obj\Release\dbMySql.csprojResolveAssemblyReference.cache
+D:\izzitech\ReportChecker\ReportChecker\dbMySql\obj\Release\dbMySql.dll
+D:\izzitech\ReportChecker\ReportChecker\dbMySql\obj\Release\dbMySql.pdb

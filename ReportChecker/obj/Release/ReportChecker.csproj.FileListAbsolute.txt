@@ -13,3 +13,18 @@ D:\Report Checker\ReportChecker\bin\Release\SSTCrypto.dll
 D:\Report Checker\ReportChecker\bin\Release\dbMySql.dll
 D:\Report Checker\ReportChecker\bin\Release\dbMySql.pdb
 D:\Report Checker\ReportChecker\obj\Release\ReportChecker.csprojResolveAssemblyReference.cache
+D:\izzitech\ReportChecker\ReportChecker\ReportChecker\bin\Release\ReportChecker.exe.config
+D:\izzitech\ReportChecker\ReportChecker\ReportChecker\obj\Release\ReportChecker.exe
+D:\izzitech\ReportChecker\ReportChecker\ReportChecker\obj\Release\ReportChecker.pdb
+D:\izzitech\ReportChecker\ReportChecker\ReportChecker\bin\Release\ReportChecker.exe
+D:\izzitech\ReportChecker\ReportChecker\ReportChecker\bin\Release\ReportChecker.pdb
+D:\izzitech\ReportChecker\ReportChecker\ReportChecker\bin\Release\dbMySql.dll
+D:\izzitech\ReportChecker\ReportChecker\ReportChecker\bin\Release\MySql.Data.dll
+D:\izzitech\ReportChecker\ReportChecker\ReportChecker\bin\Release\SSTCrypto.dll
+D:\izzitech\ReportChecker\ReportChecker\ReportChecker\bin\Release\dbMySql.pdb
+D:\izzitech\ReportChecker\ReportChecker\ReportChecker\bin\Release\MySql.Data.xml
+D:\izzitech\ReportChecker\ReportChecker\ReportChecker\obj\Release\ReportChecker.csprojResolveAssemblyReference.cache
+D:\izzitech\ReportChecker\ReportChecker\ReportChecker\obj\Release\ReportChecker.Config.resources
+D:\izzitech\ReportChecker\ReportChecker\ReportChecker\obj\Release\ReportChecker.main.resources
+D:\izzitech\ReportChecker\ReportChecker\ReportChecker\obj\Release\ReportChecker.Properties.Resources.resources
+D:\izzitech\ReportChecker\ReportChecker\ReportChecker\obj\Release\ReportChecker.csproj.GenerateResource.Cache
